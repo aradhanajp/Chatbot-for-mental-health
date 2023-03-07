@@ -1,1 +1,6 @@
 # Chatbot-for-mental-health
+The objective of this project is to develop a chatbot that utilizes Natural Language Processing (NLP) and Deep Learning (DL) techniques to promote awareness about mental health.
+
+Mental health is a global issue, especially severe in most developed countries and many emerging markets. According to the World Health Organization, one in four people worldwide suffer from mental disorders to some extent. Moreover, three out of four people with severe mental disorders do not receive treatment, worsening the problem. Chatbots have impacted several industries including healthcare. The chatbot will be able to understand and respond to natural language inputs and will be able to provide relevant information and guidance to users struggling with mental health issues in a conversational manner.
+
+This chatbot to discuss mental health will be especially beneficial for people who may feel uncomfortable seeking help in person or over the phone. Our chatbot understands and responds to user input in a conversational manner providing information on various health topics. All in all, the entire process of building the chatbot has been a thoroughly delightful experience and we look forward to continuing to improve its performance.
